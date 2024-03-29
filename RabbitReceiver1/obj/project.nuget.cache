@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nj2rLabM5yd0EAF/UDlEreikExaprjSZV9+vHv4bi/xRPVESCsWb2TJO/sfG4MCxF8lSIYEN3SNO+0Wx5QvT4g==",
+  "success": true,
+  "projectFilePath": "/Users/anvaysingh/Projects/RabbitMQ/RabbitReceiver1/RabbitReceiver1.csproj",
+  "expectedPackageFiles": [
+    "/Users/anvaysingh/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/anvaysingh/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/anvaysingh/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
